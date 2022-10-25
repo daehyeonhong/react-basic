@@ -1,7 +1,7 @@
 import './App.css';
 import {Fragment} from 'react';
 
-function App() {
+function AppJSX() {
     const name = '뿡';
     const list = ['우유', '딸기', '바나나'];
     return (<Fragment>
@@ -17,4 +17,4 @@ function App() {
     </Fragment>);
 }
 
-export default App;
+export default AppJSX;
