@@ -5,5 +5,7 @@ import Profile from './components/Profile';
 export default function AppProfile() {
     return (<Fragment>
         <Profile/>
+        <Profile/>
+        <Profile/>
     </Fragment>);
 }
